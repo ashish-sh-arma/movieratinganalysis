@@ -3,7 +3,7 @@ Code Repo for movie rating analysis
  
 TEAM
 
-NAME                                      ROLL NUMBER
+
 
 ASHISH SHARMA                -             21052402
 
